@@ -1,2 +1,2 @@
 # Whatsapp-clone
-En este projecto replicamos whatsapp con Nodejs
+En este projecto replico whatsapp con Nodejs, Socket.io y express
